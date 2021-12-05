@@ -10,6 +10,9 @@
 </p>
 <p align="center">
 <a href="https://t.me/creatorbeatz"><img alt="Telegram" src="https://img.shields.io/badge/Joelkb-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/m4_mallumovies">
+    &nbsp;<img src="https://img.shields.io/badge/M4 MALLUMOVIES-Group-blue?style=flat-square&logo=telegram" width="150" height="20">&nbsp;
+  </a>
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Joelkb&theme=highcontrast" align="center">
