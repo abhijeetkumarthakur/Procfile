@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Joel-kb's+Profile+Kindly+please+join+our+movie+group+FILMY+HARBOUR)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Joel-kb's+Profile)](https://git.io/typing-svg)
 
 
 * 📚 Student and Learning Python 
